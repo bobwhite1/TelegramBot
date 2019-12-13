@@ -1,5 +1,4 @@
-# WELCOME TO THE CULT
-# Telegram channel- @XtraTgBot
+
 # FORK AT YOUR OWN RISK
 # Installing
 
@@ -11,7 +10,7 @@
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/Dark-Princ3/X-tra-Telegram
+git clone https://github.com/bobwhite1/TelegramBot
 cd X-tra-Telegram
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
